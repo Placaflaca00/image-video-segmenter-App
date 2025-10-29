@@ -22,8 +22,8 @@ Aplicación de segmentación inteligente con 8+ algoritmos de Computer Vision pa
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/Placaflaca00/image-video-segmenter-App.git
+cd image-video-segmenter-App
 ```
 
 ### 2. Crear Entorno Virtual
@@ -402,7 +402,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más deta
 
 ## 👥 Autores
 
-- **Tu Nombre** - [Tu GitHub](https://github.com/tu-usuario)
+- **Placaflaca00** - [GitHub](https://github.com/Placaflaca00)
 
 ---
 
